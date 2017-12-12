@@ -7,6 +7,7 @@ Questions for checking student understanding of Basecamp curriculum topics.
 #### Staying Motivated and Swalling the Elephant
 #### Computational Thinking vs. Syntax
 #### HTML & CSS Basics
+* Go to [codepen.io](#www.codepen.io) and have the student create a `<div>` with some text, styled in their choice. 
 #### Variables & Data Types
 #### Operators
 #### Objects
@@ -30,6 +31,7 @@ Questions for checking student understanding of Basecamp curriculum topics.
 #### Intermediate HTML & CSS
 
 #### Scope
+
 
 #### Arrow Functions
 * When do arrow functions need a "return" keyword to function properly?
