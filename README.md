@@ -4,7 +4,7 @@ Questions for checking student understanding of Basecamp curriculum topics.
 ### Topics
 
 #### Introduction
-#### Staying Motivated and Swalling the Elephant
+#### Staying Motivated and Swallowing the Elephant
 #### Computational Thinking vs. Syntax
 #### HTML & CSS Basics
 * Go to [codepen.io](https://codepen.io/) and have the student create a `<div>` with some text in it. Then, use a CSS class to give it some styling (e.g., make it white text on a blue background, etc.) 
