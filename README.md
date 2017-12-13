@@ -6,6 +6,8 @@ Questions for checking student understanding of Basecamp curriculum topics.
 #### Introduction
 #### Staying Motivated and Swallowing the Elephant
 #### Computational Thinking vs. Syntax
+* How is computational thinking different from regular thinking?
+* What is syntax? (What does the word "syntax" mean?)
 #### HTML & CSS Basics
 * Go to [codepen.io](https://codepen.io/) and have the student create a `<div>` with some text in it. Then, use a CSS class to give it some styling (e.g., make it white text on a blue background, etc.) 
 #### Variables & Data Types
