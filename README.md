@@ -1,5 +1,6 @@
 # basecamp-questions
 Questions for checking student understanding of Basecamp curriculum topics.
+Within each topic, the questions are roughly ordered from easy to hard. Feel free to make a PR if you want to share.
 
 ### Topics
 
