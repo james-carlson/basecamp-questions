@@ -12,8 +12,9 @@ Within each topic, the questions are roughly ordered from easy to hard. Feel fre
 #### HTML & CSS Basics
 * Go to [codepen.io](https://codepen.io/) and have the student create a `<div>` with some text in it. Then, use a CSS class to give it some styling (e.g., make it white text on a blue background, etc.) 
 #### Variables & Data Types
+* Make a string, array, object, and boolean variable.
 #### Operators
-
+* How many different operators can you name? (Have student describe what each ones does. Then discuss any ones they missed.)
 #### Objects
 * How do you make an object in JavaScript?
 * What is an object property? 
@@ -21,6 +22,7 @@ Within each topic, the questions are roughly ordered from easy to hard. Feel fre
 #### Arrays
 #### Functions
 #### Methods
+* Start with having them build a function, then have them put it in an object and invoke it.
 #### Conditionals
 
 #### Loops
