@@ -22,7 +22,9 @@ Within each topic, the questions are roughly ordered from easy to hard. Feel fre
 #### Arrays
 #### Functions
 #### Methods
+* What are the possible data types that can be the value of an object key?
 * Start with having them build a function, then have them put it in an object and invoke it.
+
 #### Conditionals
 
 #### Loops
@@ -30,7 +32,11 @@ Within each topic, the questions are roughly ordered from easy to hard. Feel fre
 * What does each part of the syntax do?
 
 #### Combining Knowledge to Solve Complex Problems
-
+* How are the following two arrays different? (show the student these in repl.it, codeshare.io, etc)  
+```
+[true, false]
+['true','false']
+```
 #### Practice Problems
 
 #### Computer Basics
